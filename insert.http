@@ -1,0 +1,6 @@
+###
+POST http://localhost:5000/insert/
+###
+POST http://localhost:5000/insert/brand
+###
+POST http://localhost:5000/user/createuser
